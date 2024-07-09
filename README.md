@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheoSpat
-- 👀 I’m interested in Coding, Bodybuiling, Travelling, Reading 
+- 👀 I’m interested in Coding, Bodybuilding, Travelling, Reading 
 - 🌱 I’m currently learning Kotlin language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on (no-one at this time)
 - 📫 How to reach me @thodorissp7, Email: theo.spathis7@gmail.com
 - 😄 Pronouns: Theo, Teo, SwordTeo
 - ⚡ Fun fact: i am watching anime in my free time 
